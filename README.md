@@ -2,7 +2,7 @@ Hi there, I'm Muhammad Adil Umer 👋<br/>
 
 🚀 About Me
 
-I'm a passionate Software Engineer and AI/ML Engineer currently studying at National University of Sciences and Technology.<br\>
+I'm a passionate Software Engineer and AI/ML Engineer currently studying at National University of Sciences and Technology.
 I enjoy building intelligent systems that combine: <br/>
 
 🌐 Full Stack Development <br/>
