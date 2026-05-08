@@ -8,7 +8,7 @@ I enjoy building intelligent systems that combine: <br/>
 🌐 Full Stack Development <br/>
 🧠 Machine Learning <br/>
 👁️ Computer Vision <br/>
-🔥 Deep Learning
+🔥 Deep Learning <br/>
 ☁️ DevOps & Scalable Architectures
 
 ## 🌐 Socials:
